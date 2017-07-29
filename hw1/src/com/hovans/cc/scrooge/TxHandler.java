@@ -49,7 +49,7 @@ public class TxHandler {
             if (Crypto.verifySignature(key, tx.getRawDataToSign(i), input.signature) == false) {
                 return false;
             }
-            // (3) 중복 방지
+            // (3)
             usedTxs.add(utxo);
 
             inSum += prevTxOutput.value;
