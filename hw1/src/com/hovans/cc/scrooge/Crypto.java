@@ -1,4 +1,4 @@
-package com.hovans.cc.hw1;
+package com.hovans.cc.scrooge;
 
 import java.security.InvalidKeyException;
 import java.security.NoSuchAlgorithmException;

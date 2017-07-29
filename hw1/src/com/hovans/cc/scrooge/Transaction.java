@@ -1,4 +1,4 @@
-package com.hovans.cc.hw1;
+package com.hovans.cc.scrooge;
 
 import java.nio.ByteBuffer;
 import java.security.MessageDigest;
